@@ -11,6 +11,8 @@ Personal Identity
 
 * [Pattern](https://www.flickr.com/photos/hayleygregg/16516618230/in/album-72157651077722236/)
 
+* [Grid Pattern](https://www.flickr.com/photos/hayleygregg/16731840402/in/set-72157651077722236)
+
 * [Wordmark](https://www.flickr.com/photos/hayleygregg/16712657715/in/album-72157651077722236/)
 
 * [Guidelines](https://www.flickr.com/photos/hayleygregg/16702712271/in/album-72157651077722236/)
