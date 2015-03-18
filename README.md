@@ -18,3 +18,11 @@ Personal Identity
 * [Guidelines](https://www.flickr.com/photos/hayleygregg/16702712271/in/album-72157651077722236/)
 
 * [Supporting Material](https://www.flickr.com/photos/hayleygregg/sets/72157651203988765/)
+
+
+Uncommon Knowledge
+-------------------
+
+* [Visual Identity](https://www.flickr.com/photos/hayleygregg/collections/72157650961957007/)
+
+
