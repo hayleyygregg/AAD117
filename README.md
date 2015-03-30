@@ -25,4 +25,6 @@ Uncommon Knowledge
 
 * [Visual Identity](https://www.flickr.com/photos/hayleygregg/collections/72157650961957007/)
 
+* [Icons](https://www.flickr.com/photos/hayleygregg/16315479703/)
+
 
