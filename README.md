@@ -27,6 +27,6 @@ Uncommon Knowledge
 
 * [Icons](https://www.flickr.com/photos/hayleygregg/16315479703/) & [Sketches](https://www.flickr.com/photos/hayleygregg/17098836002/)
 
-* [Brand Guidelines Research](https://github.com/hayleyygregg/AAD117/brand-guidelines-research.md)
+* [Brand Guidelines Research](https://github.com/hayleyygregg/AAD117/blob/master/brand-guidelines-research.md)
 
 
