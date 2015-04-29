@@ -14,4 +14,16 @@ Brand Guidelines Research
 * [Dropbox](https://www.dropbox.com/branding#logo-colors)
 
 
-* []()
+* [easyGroup](http://www.easy.com/PDFs/easyGroup_Brand_Manual.pdf)
+
+
+
+* [LinkedIn](https://brand.linkedin.com/visual-identity/logo)
+
+
+* [Google](https://www.behance.net/gallery/google-visual-assets-guidelines-part-1/9028077)
+
+* [Smashing Mag Finding Tone & Voice](http://www.smashingmagazine.com/2012/08/21/finding-tone-voice/)
+
+* [MailChimp Voice & Tone guidelines (found on smashing mag)](http://voiceandtone.com)
+
