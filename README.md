@@ -29,4 +29,8 @@ Uncommon Knowledge
 
 * [Brand Guidelines Research](https://github.com/hayleyygregg/AAD117/blob/master/brand-guidelines-research.md)
 
+* [Style Tile 1](https://www.flickr.com/photos/hayleygregg/17122637088/) [Style Tile 2](https://www.flickr.com/photos/hayleygregg/17308564292/in/photostream/)
+
+* [Bookcovers](https://www.flickr.com/photos/hayleygregg/17123457899/in/photostream/) [Bookcover Mockups](https://www.flickr.com/photos/hayleygregg/17121909078/in/photostream/)
+
 
