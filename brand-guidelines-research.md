@@ -34,3 +34,5 @@ Brand Guidelines Research
 
 * [How to Pitch Ideas to a Client](http://www.howcast.com/videos/509240-how-to-pitch-ideas-to-a-client-graphic-design/)
 
+* [Word Document of inspiring websites](research/UncommonKnowledgeBrand.docx)
+
