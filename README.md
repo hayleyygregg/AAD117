@@ -33,4 +33,7 @@ Uncommon Knowledge
 
 * [Bookcovers](https://www.flickr.com/photos/hayleygregg/17123457899/in/photostream/) [Bookcover Mockups](https://www.flickr.com/photos/hayleygregg/17121909078/in/photostream/)
 
+* [Brand Guidelines](http://hayleyygregg.github.io/AAD117-Brand-Guidelines/brand-guidelines.html)
+
+
 
